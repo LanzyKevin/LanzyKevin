@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **lanzykevin@gmail.com**
 
-- 📄 Know about my experiences [https://pathbrite.com/resumes/PHws7OP6E-Pp/My%20Resume](https://pathbrite.com/resumes/PHws7OP6E-Pp/My%20Resume)
+- 📄 Know about my experiences [https://pathbrite.com/KevinLZ/resume/pdmT](https://pathbrite.com/KevinLZ/resume/pdmT)
 
 - ⚡ Fun fact **I dabbled with piano lessons growing up.**
 
