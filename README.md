@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lanzykevin&label=Profile%20views&color=0e75b6&style=flat" alt="lanzykevin" /> </p>
 
-- 🌱 I’m currently learning **CISSP and OSCP**
+- 🌱 I’m currently studying for **Pentest+ and OSCP**
 
-- 🤝 I’m looking for help with **learning Python and Javascript**
+- 🤝 I’m looking for help with **understanding AI/ML**
 
 - 👨‍💻 All of my projects are available at [https://github.com/LanzyKevin](https://github.com/LanzyKevin)
 
